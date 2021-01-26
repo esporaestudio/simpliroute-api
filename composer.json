@@ -1,0 +1,23 @@
+{
+    "name": "espora/simpliroute-api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alejandro Flores",
+            "email": "alejandro@esporaestudio.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Espora\\SimpliRouteApi\\": "src/"
+        }
+    },
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Espora\\SimpliRouteApi\\SimpliRouteApiServiceProvider"
+            ]
+        }
+    }
+}
