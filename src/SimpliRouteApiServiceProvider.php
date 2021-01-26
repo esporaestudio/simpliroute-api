@@ -1,12 +1,8 @@
 <?php
 
-namespace Espora\HttpLogger;
+namespace Espora\SimpliRouteApi;
 
 use Illuminate\Support\ServiceProvider;
-use Illuminate\Routing\Router;
-
-use Espora\HttpLogger\Commands\PurgeCommand;
-use Espora\HttpLogger\Middleware\LogRequest;
 
 class SimpliRouteApiServiceProvider extends ServiceProvider
 {

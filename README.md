@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a package that can be used for communicating with SimpliRoute
+This is a package that can be used for communicating with SimpliRoute inside a Laravel App
 
 ### Use with caution
 Please consider using this package with caution, mainly just for dev and debugging.
